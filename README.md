@@ -1,2 +1,2 @@
 # first-code
-my first github project
+my first github project in github
